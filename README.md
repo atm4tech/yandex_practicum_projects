@@ -1,2 +1,2 @@
-# yandex_practicum_projects
+# Yandex.Practicum
 Мои проекты с курса Анализ Данных от Яндекс.Практикум
